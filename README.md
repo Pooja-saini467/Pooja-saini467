@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I am Pooja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/Pooja96490259" target="blank"><img src="https://pbs.twimg.com/profile_images/1496900540038803459/TDJA3jgv_400x400.jpg" alt="" /></a></p>
+<p align="left"> <a href="https://twitter.com/Pooja96490259" target="blank"><img src="https://img.shields.io/twitter/follow/Pooja96490259?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 - 🌱 I’m currently learning **React Js.**
 
