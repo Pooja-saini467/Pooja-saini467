@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pooja-saini-a8239a1a4/recent-activity/shares/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/poojasaini152018" target="blank"><img align="center" src="<i class="fab fa-hackerrank" style="font-size:50px"></i>" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/poojasaini152018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/Pooja96490259" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
