@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pooja-saini-a8239a1a4/recent-activity/shares/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/poojasaini152018" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEUNFB4A6mT///8NDh0NABwA5GMA72UPFiAAAAkAAA0NEx4A/2sNGB8A5mNbXmTb3d5WWV4FhUMA+mkNHx/j4+UAAAD4+PiUmJwSFBqfo6cPABQFokwHDhkAAAYNABkABxR+gYbP0NIIXjcFjUYFqk/x8fM2PENwdHrkGBGbAAABRUlEQVR4nO3c207CQBRA0bYqDFRAlOK1FC/g//+hQUOiA4mASQ3DWq89Lzt96mlmsgwAAAAAAAAAAAAAAAAAAABgZ0+xfYfODtNSXtZUoQ7f1KEKm1N1PFVXzfrZ7Pwws34bfd1mOZpGivfQjafmRTz0vGw+py5nL52LQ+TjNgKzbhhOithtFRfe3W8MjYa9r8KH1zLv7C8v327aeIlbCqfbC6dx4dW6cFwO8v0Nrh//q3DXd6hQoUKFChUqVKhQoUKFChUqVKhQocJfC+vkC6t+9JMircLVRrgXfuhVSRUWxWKyYZFW4U4UKlSoUKFChQoVKlSoUKHCoy9M/Rv/FPY0qe/aTmNfqlChQoUKFSpUqFChQoUKFSpUqFChwr8XOsu9LjyW8/jJ36mQ/r0YK6nfbQIAAAAAAAAAAAAAAAAAAAActQ8Paang1Ax8tQAAAABJRU5ErkJggg==" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/poojasaini152018" target="blank"><img align="center" src="" alt="" height="30" width="40" /><i class="fab fa-hackerrank" style="font-size:50px"></i></a>
 <a href="https://twitter.com/Pooja96490259" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
