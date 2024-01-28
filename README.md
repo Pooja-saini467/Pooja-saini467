@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Pooja-saini467/github-readme-activity-graph"><img alt="Pooja Saini Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pooja-saini467&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Pooja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pooja-saini467&bg_color=121212&color=4c5a9e&line=78aad9&point=858585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
