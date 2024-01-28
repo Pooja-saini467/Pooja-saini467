@@ -74,5 +74,7 @@
 </p>
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Pooja-saini467/Pooja-saini467/blob/output/github-contribution-grid-snake.gif)
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Pooja-saini467
+            
 
