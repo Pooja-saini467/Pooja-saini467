@@ -80,7 +80,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pooja-saini467/pooja-saini467/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Pooja-saini467/snk)_
+_generated with [Pooja-saini467](https://github.com/Pooja-saini467)
 
             
 
