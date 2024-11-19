@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Study on **[AirPort Data]()**
+- 🔭 I’m currently Study on **[AirPort Data Dashboard]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
