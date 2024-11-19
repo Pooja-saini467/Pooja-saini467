@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="" ><img src="https://miit.edu.mu/wp-content/uploads/2023/08/Microsoft-Power-BI-Symbol-526x526.png" height="100px" width="100px"/></a>
+    <a href="" ><img src="https://miit.edu.mu/wp-content/uploads/2023/08/Microsoft-Power-BI-Symbol-526x526.png" height="60px" width="60px"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
