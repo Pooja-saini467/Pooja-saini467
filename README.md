@@ -95,23 +95,13 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Pooja-saini467/github-readme-streak-stats">
-        <img title="🔥 GitHub Streak Stats"
-             alt="Pooja streak"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja-saini467&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Pooja-saini467/github-readme-stats">
-    <img alt="Pooja Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=Pooja-saini467&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
+<img width="48%"
+     src="https://github-readme-stats.vercel.app/api?username=Pooja-saini467&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  <a href="https://github.com/Pooja-saini467/github-readme-stats">
-    <img alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-saini467&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
+<img width="48%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-saini467&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </p>
 
 ---
