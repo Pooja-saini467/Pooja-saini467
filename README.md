@@ -91,16 +91,15 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%"
-     src="https://github-readme-stats.vercel.app/api?username=Pooja-saini467&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pooja-saini467&theme=github_dark"/>
 
-<img width="48%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-saini467&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pooja-saini467&theme=github_dark"/>
 
 </p>
 
