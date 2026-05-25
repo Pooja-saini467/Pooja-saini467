@@ -10,7 +10,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 ## 🙋‍♀️ About Me
 
-- 🔭 Currently working on **Airport Data Dashboard**
+- 🔭 Currently working on **Xpense Data Dashboard**
 - 🌱 Learning and revising **Data Structures & Algorithms**
 - 📊 Passionate about **Data Analytics, Visualization & AI**
 - 👯 Looking to collaborate on **Open Source Data Analytics Projects**
