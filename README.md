@@ -93,16 +93,13 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pooja-saini467&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pooja-saini467&theme=github_dark" />
 
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pooja-saini467&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pooja-saini467&theme=github_dark" />
 
-</p>
-
+</div>
 ---
 
 ## 📈 Contribution Graph
